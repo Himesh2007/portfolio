@@ -7,6 +7,9 @@ export const metadata: Metadata = {
   title: 'Alex Carter | Portfolio',
   description: 'Modern portfolio website showcasing projects, skills, and contact information.',
   keywords: ['portfolio', 'developer', 'nextjs', 'tailwind'],
+  other: {
+    'google-site-verification': 'IeGyMmIC_geGnvhqCey7nLcNeDdE-wfDoS0JpRmaqQE'
+  }
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
